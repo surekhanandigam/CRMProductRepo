@@ -7,8 +7,11 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
+import com.comcast.crm.basetest.BaseClass;
 
-public class ProductlinkTest {
+
+public class ProductlinkTest 
+{
       
 	@Test
 	public void createNewProduct() 

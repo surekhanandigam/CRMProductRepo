@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 import com.comcast.crm.basetest.BaseClass;
 
 
-public class ProductlinkTest 
+public class ProductTest 
 {
       
 	@Test
